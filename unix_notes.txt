@@ -1,0 +1,246 @@
+ls
+history > moving_around.txt
+pwd
+history | less
+history | tail -r
+history | tail 
+history 
+cd
+cd ..
+ls ..
+cd ...
+ls ~
+~
+cd ../somewhere-else
+cd ../..
+cd../..
+cd../cc
+cd documents/Cierra\ Figaro/
+cd Cierra\ Figaro/
+cd cierr
+cd ~
+cd public
+cd src
+ls -l
+cd /Users/m
+ls -a
+man ls
+ls -tz
+ls -C
+ls -@
+ls -lrt
+ls -rt
+ls -r
+r
+ls -lt
+cd /
+ls -t
+path
+clear
+curl -fsSL http://git.io/QxUaOQ | sh 
+git config user.email
+git config user.name
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.email 'cierra.figaro@outlook.com'
+git config --global user.name 'Cierra Figaro'
+git --version
+brew link git
+brew install git
+brew unlink git
+link git
+echo $PATH
+subl /etc/paths
+echo $EDITOR
+set -gx EDITOR 'subl -w'
+# Sublime Text
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+file /Applications/Sublime\ Text\ 2.app/
+file /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl
+brew info fish
+brew info
+brew in
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+uname
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+brew doctor
+brew help
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+subl readme.md
+touch readme.md
+git init
+cd Random
+cd documents
+. .
+..
+cd ~/Documents
+ls -l~
+ls-l~
+ls | less
+ls -t
+ls ~
+history > moving_around.txt
+ls
+pwd
+history | less
+history | tail -r
+history | tail 
+history 
+cd
+cd ..
+ls ..
+cd ...
+~
+cd ../somewhere-else
+cd ../..
+cd../..
+cd../cc
+cd documents/Cierra\ Figaro/
+cd Cierra\ Figaro/
+cd cierr
+cd ~
+cd public
+cd src
+ls -l
+cd /Users/m
+ls -a
+man ls
+ls -tz
+ls -C
+ls -@
+ls -lrt
+ls -rt
+ls -r
+r
+ls -lt
+cd /
+path
+clear
+curl -fsSL http://git.io/QxUaOQ | sh 
+git config user.email
+git config user.name
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.email 'cierra.figaro@outlook.com'
+git config --global user.name 'Cierra Figaro'
+git --version
+brew link git
+brew install git
+brew unlink git
+link git
+echo $PATH
+subl /etc/paths
+echo $EDITOR
+set -gx EDITOR 'subl -w'
+# Sublime Text
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+file /Applications/Sublime\ Text\ 2.app/
+file /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl
+brew info fish
+brew info
+brew in
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+uname
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+brew doctor
+brew help
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+subl readme.md
+touch readme.md
+git init
+cd Random
+cd documents
+. .
+..
+cd ~/Documents
+ls -l~
+ls-l~
+history >>  moving_around.txt
+ls | less
+ls -t
+ls ~
+history > moving_around.txt
+ls
+pwd
+history | less
+history | tail -r
+history | tail 
+history 
+cd
+cd ..
+ls ..
+cd ...
+~
+cd ../somewhere-else
+cd ../..
+cd../..
+cd../cc
+cd documents/Cierra\ Figaro/
+cd Cierra\ Figaro/
+cd cierr
+cd ~
+cd public
+cd src
+ls -l
+cd /Users/m
+ls -a
+man ls
+ls -tz
+ls -C
+ls -@
+ls -lrt
+ls -rt
+ls -r
+r
+ls -lt
+cd /
+path
+clear
+curl -fsSL http://git.io/QxUaOQ | sh 
+git config user.email
+git config user.name
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.email 'cierra.figaro@outlook.com'
+git config --global user.name 'Cierra Figaro'
+git --version
+brew link git
+brew install git
+brew unlink git
+link git
+echo $PATH
+subl /etc/paths
+echo $EDITOR
+set -gx EDITOR 'subl -w'
+# Sublime Text
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+file /Applications/Sublime\ Text\ 2.app/
+file /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl
+brew info fish
+brew info
+brew in
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+uname
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+brew doctor
+brew help
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+subl readme.md
+touch readme.md
+git init
+cd Random
+cd documents
+. .
+..
+cd ~/Documents
+ls -l~
+ls-l~
